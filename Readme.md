@@ -18,5 +18,5 @@ python follow_users.py
 # To unfollow_users
 python unfollow_users.py
 
-# Update Credentials in apis,py file
+# Update Credentials in apis.py file
 Find the variables insta_handle and insta_password, and enter your instagram account credentials
