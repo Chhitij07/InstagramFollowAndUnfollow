@@ -9,6 +9,9 @@ pip install beautifulsoup4
 # To install requests
 pip install requests
 
+# To install lxml
+pip install lxml
+
 # Download ChromeDriver from 'https://chromedriver.chromium.org/downloads', unzip it and move it to 'C:\Program Files\'
 The directory structure should look like 'C:\Program Files\ChromeDriver\chromedriver.exe'
 
